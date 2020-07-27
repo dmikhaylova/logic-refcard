@@ -10,5 +10,5 @@ The [card](/Logic%20cheat%20sheet.pdf) covers some symbols and formal notation u
 * Methods to check logical properties using trees (validity, satisfiability, equivalence ..)
 * Rules to move quatifiers for prenex normal form
 
-I composed this reference card during and after the Logic course at University of Pisa as I found very challenging to grasp and remember all symbols and rules.
+I created this reference card while studying for Logic course at Pisa University. I found very challenging to grasp and remember all symbols and rules.
 The notation and some definitions comes from the "Logic: The Laws of Truth" by Nicholas J.J. Smith (just great!)
