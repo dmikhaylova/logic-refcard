@@ -12,3 +12,5 @@ The [card](/Logic%20cheat%20sheet.pdf) covers some symbols and formal notation u
 
 I created this reference card while studying for Logic course at Pisa University. I found very challenging to grasp and remember all symbols and rules.
 The notation and some definitions comes from the "Logic: The Laws of Truth" by Nicholas J.J. Smith (just great!)
+
+If you are searching what a hell is 𝕸 and need a help with tableaux rules, feel free to download and print this cheat sheet. 
