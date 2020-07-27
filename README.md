@@ -1,5 +1,6 @@
 # Classical Logic reference card (aka cheat sheet)
 The card covers some symbols and formal notation used in classical logic: propositional and predicate. 
+![preview](/img/LCS1.png)  ![preview](/img/LCS2.png)
 * Logical symbols
 * Connectives (operators) with rules
 * How to construct truth table
